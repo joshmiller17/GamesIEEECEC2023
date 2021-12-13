@@ -1,5 +1,5 @@
 **Organisers:**  
-- Alexander Dockhorn, School of Electronic Engineering and Computer Science, Otto von Guericke University Magdeburg, Germany ([a.dockhorn@qmul.ac.uk](mailto:a.dockhorn@qmul.ac.uk)), 
+- Alexander Dockhorn, School of Electronic Engineering and Computer Science, Otto von Guericke University Magdeburg, Germany ([alexander.dockhorn@ovgu.de](mailto:alexander.dockhorn@ovgu.de)), 
 - Junge Zhang, Institute of Automation, Chinese Academy of Sciences, China ([jgzhang@nlpr.ia.ac.cn](mailto:jgzhang@nlpr.ia.ac.cn))
 - Chiara Sironi, Department of Data Science & Knowledge Engineering, Maastricht University, The Netherlands  ([c.sironi@maastrichtuniversity.nl](mailto:c.sironi@maastrichtuniversity.nl))
 
@@ -55,7 +55,7 @@ Please note that the list below serves as a rough guide. The dates may be change
 - Personal webpage: [https://adockhorn.github.io/](https://adockhorn.github.io/)
 
 **Junge Zhang** is now an associate professor of the University of Chinese Academy of Sciences. His major research interests include computer vision, pattern recognition, decision-making, deep reinforcement learning and multi-agent learning. In 2010 and 2011, he and his group members won the PASCAL VOC challenge on object detection and ranked second on object classification. In 2018, he and his team won the third-prize of the Starcraft AI challenge at the AIIDE Starcraft Competition. He has published over 50 papers including top-tier journals and conferences such as TPAMI, IJCV, TIP, CVPR, ICCV, NeurIPS, AAAI, IJCAI. He served as the Publicity Chair and the Technical Program Committee Member of several conferences, and the Peer reviewer of over 20 international journals and conferences and the member of IEEE CIS Games Technical Committee.
-Personal webpage: [http://people.ucas.edu.cn/~ZHANGJUNGE?language=en](http://people.ucas.edu.cn/~ZHANGJUNGE?language=en)
+- Personal webpage: [http://people.ucas.edu.cn/~ZHANGJUNGE?language=en](http://people.ucas.edu.cn/~ZHANGJUNGE?language=en)
 
 **Chiara F. Sironi** is a post-doctoral researcher at the Department of Data Science & Knowledge Engineering at Maastricht University, where she also received the Ph.D. degree in 2019. Her research focuses on on-line learning of search control for Monte-Carlo Tree Search (MCTS). She is using General Game Playing (GGP) as the main application domain and is also interested in applications to General Video Game Playing (GVGP). She participated in the organization of the 2018 IEEE Conference on Computational Intelligence and Games (CIG2018) as local chair and is currently a member of the Games Technical Committee (GTC) \| IEEE Computational Intelligence Society.
 - Personal webpage: [https://dke.maastrichtuniversity.nl/c.sironi/](https://dke.maastrichtuniversity.nl/c.sironi/)
