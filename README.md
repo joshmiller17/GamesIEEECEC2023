@@ -1,7 +1,8 @@
 **Organisers:**  
-- Alexander Dockhorn, School of Electronic Engineering and Computer Science, Otto von Guericke University Magdeburg, Germany ([alexander.dockhorn@ovgu.de](mailto:alexander.dockhorn@ovgu.de)), 
-- Junge Zhang, Institute of Automation, Chinese Academy of Sciences, China ([jgzhang@nlpr.ia.ac.cn](mailto:jgzhang@nlpr.ia.ac.cn))
-- Chiara Sironi, Department of Data Science & Knowledge Engineering, Maastricht University, The Netherlands  ([c.sironi@maastrichtuniversity.nl](mailto:c.sironi@maastrichtuniversity.nl))
+- Hamna Aslam, ([h.aslam@innopolis.ru](mailto:h.aslam@innopolis.ru))
+- Marco Scirea, ([msc@mmmi.sdu.dk](mailto:msc@mmmi.sdu.dk))
+- Josh Aaron Miller, ([miller.josh@northeastern.edu](mailto:miller.josh@northeastern.edu))
+
 
 _This special session is organised in association with the IEEE CIS Games Technical Committee (GTC)._
 
@@ -14,7 +15,7 @@ Games are an ideal domain to study computational intelligence (CI) methods becau
 
 In general, papers are welcome that consider all kinds of applications of methods (evolutionary computation, supervised learning, unsupervised learning, (deep) reinforcement learning, fuzzy systems, game-tree search, rolling horizon algorithms, MCTS, etc.) to games (card games, board games, mathematical games, action games, strategy games, role-playing games, arcade games, serious games, etc.).
 
-- Examples include but are not limited to
+Examples include but are not limited to:
 - Adaptation in games
 - Automatic game testing
 - Coevolution in games
@@ -42,20 +43,37 @@ In general, papers are welcome that consider all kinds of applications of method
 
 Please note that the list below serves as a rough guide. The dates may be changed due to changes by the organizing committee. You can find the latest information at: [https://wcci2022.org/call-for-papers/](https://wcci2022.org/call-for-papers/).
 	
-| 31 January 2022            | Paper Submission Deadline           |
+| TBA                        | Paper Submission Deadline           |
 | :------------------------- |:------------------------------------|
-| 26 April 2022              | Paper Acceptance Notification       |
-| 23 May 2022                | Final Paper Submission Deadline     |
+| TBA                        | Paper Acceptance Notification       |
+| TBA                        | Final Paper Submission Deadline     |
 | TBA                        | Early Registration Deadline         |
 | TBA                        | Conference Dates                    |
 
 ## About the organisers
 
-**Alexander Dockhorn** is post-doctoral research associate at the Otto von Guericke University of Magdeburg. He received his PhD at the Otto von Guericke University in Magdeburg in 2020, after which he continued his research on games at the Game AI Lab of the Queen Mary University of London. His research focuses on forward model learning methods and the analysis of prediction-based search agents in games with a special interest in partial-information games. He is active member of the IEEE in which he serves as the chair of the IEEE CIS Competitions Sub-Committee and member of the Games Technical Committee (GTC). Since 2017, he is organizing the Hearthstone AI competition to foster comparability of AI agents in card games.
-- Personal webpage: [https://adockhorn.github.io/](https://adockhorn.github.io/)
+**Hamna Aslam** is a lecturer at IT University Copenhagen. She has a Ph. D. in Computer
+Science with a focus on user experience evaluation and affordance theory. She researches
+digital and analog systems for their impact, desirability, and usability patterns. In this regard, AI
+systems and games are the primary focus.
 
-**Junge Zhang** is now an associate professor of the University of Chinese Academy of Sciences. His major research interests include computer vision, pattern recognition, decision-making, deep reinforcement learning and multi-agent learning. In 2010 and 2011, he and his group members won the PASCAL VOC challenge on object detection and ranked second on object classification. In 2018, he and his team won the third-prize of the Starcraft AI challenge at the AIIDE Starcraft Competition. He has published over 50 papers including top-tier journals and conferences such as TPAMI, IJCV, TIP, CVPR, ICCV, NeurIPS, AAAI, IJCAI. He served as the Publicity Chair and the Technical Program Committee Member of several conferences, and the Peer reviewer of over 20 international journals and conferences and the member of IEEE CIS Games Technical Committee.
-- Personal webpage: [http://people.ucas.edu.cn/~ZHANGJUNGE?language=en](http://people.ucas.edu.cn/~ZHANGJUNGE?language=en)
 
-**Chiara F. Sironi** is a post-doctoral researcher at the Department of Data Science & Knowledge Engineering at Maastricht University, where she also received the Ph.D. degree in 2019. Her research focuses on on-line learning of search control for Monte-Carlo Tree Search (MCTS). She is using General Game Playing (GGP) as the main application domain and is also interested in applications to General Video Game Playing (GVGP). She participated in the organization of the 2018 IEEE Conference on Computational Intelligence and Games (CIG2018) as local chair and is currently a member of the Games Technical Committee (GTC) \| IEEE Computational Intelligence Society.
-- Personal webpage: [https://dke.maastrichtuniversity.nl/c.sironi/](https://dke.maastrichtuniversity.nl/c.sironi/)
+**Marco Scirea** is an Associate Professor in the Maersk Mc-Kinney Moller Institute at University
+of Southern Denmark as part of the Game Development and Learning Technologies group.
+He has a PhD in Affective Music Generation and its Effect on Player Experience as part of the
+Center for Computer Games Research games at the IT University of Copenhagen.
+His PhD research investigated the expression of moods and the affective effect this
+mood-expressive music can have on the listener and applied this research to games: the final
+objective was to create a system where, by using a cognitive model of the player, we would be
+able to identify the player's emotional state and be able to reinforce or manipulate it through the
+use of mood-expressive music to improve user experience.
+What this research hopes to achieve is creating better immersive experiences (reinforcement of
+current emotional state and playstyle) and help the designers create experiences where the
+players are put in a specific emotional state (manipulation).
+
+
+**Josh Aaron Miller** is a sixth-year PhD candidate at Northeastern University. His research
+focuses on game-user interactions of transformational games — synthesizing game design
+principles, industry best practices, and the psychology of learning and motivation to create
+engaging user experiences in serious gaming contexts. He specializes in tutorial design and
+complex learning.
