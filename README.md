@@ -41,7 +41,7 @@ Examples include but are not limited to:
  
 ## Important Dates
 
-Please note that the list below serves as a rough guide. The dates may be changed due to changes by the organizing committee. You can find the latest information at: [https://wcci2022.org/call-for-papers/](https://wcci2022.org/call-for-papers/).
+Please note that the list below serves as a rough guide. The dates may be changed due to changes by the organizing committee. You can find the latest information at: [https://2023.ieee-cec.org/](https://2023.ieee-cec.org/).
 	
 | TBA                        | Paper Submission Deadline           |
 | :------------------------- |:------------------------------------|
