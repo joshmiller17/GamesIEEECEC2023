@@ -1,5 +1,5 @@
 **Organisers:**  
-- Hamna Aslam, ([h.aslam@innopolis.ru](mailto:h.aslam@innopolis.ru))
+- Hamna Aslam, ([hamna025@gmail.com](mailto:hamna025@gmail.com))
 - Marco Scirea, ([msc@mmmi.sdu.dk](mailto:msc@mmmi.sdu.dk))
 - Josh Aaron Miller, ([miller.josh@northeastern.edu](mailto:miller.josh@northeastern.edu))
 
@@ -52,9 +52,8 @@ Please note that the list below serves as a rough guide. The dates may be change
 
 ## About the organisers
 
-**Hamna Aslam** is a lecturer at IT University Copenhagen. She has a Ph. D. in Computer
-Science with a focus on user experience evaluation and affordance theory. She researches
-digital and analog systems for their impact, desirability, and usability patterns. In this regard, AI
+**Hamna Aslam** has a Ph. D. in Computer Science with a focus on user experience evaluation and affordance theory.
+She researches digital and analog systems for their impact, desirability, and usability patterns. In this regard, AI
 systems and games are the primary focus.
 
 
