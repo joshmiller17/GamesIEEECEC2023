@@ -1,4 +1,4 @@
-# Workshop on Computation Intelligence in Games and Special Session on Games
+# IEEE CEC 2023 Workshop on Computation Intelligence in Games and Special Session on Games
 This workshop and the special session is organized in association with the IEEE CIS Games Technical Committee (GTC).
 
 **Organisers:**  
@@ -9,7 +9,7 @@ This workshop and the special session is organized in association with the IEEE 
 
 ## Aim
 
-Games are an ideal domain to study computational intelligence (CI) methods because they provide affordable, competitive, dynamic, reproducible environments suitable for testing new search algorithms, pattern-based evaluation methods, or learning concepts. Games scale from simple problems for developing algorithms to incredibly hard problems for testing algorithms to the limit. They are also interesting to observe, fun to play, and very attractive to students. Additionally, there is great potential for CI methods to improve the design and development of both computer games as well as tabletop games, board games, and puzzles. This special session aims at gathering leaders and neophytes in games research as well as practitioners in this field who research applications of computational intelligence methods to computer games.
+Games are an ideal domain to study computational intelligence (CI) methods because they provide affordable, competitive, dynamic, reproducible environments suitable for testing new search algorithms, pattern-based evaluation methods, or learning concepts. Games scale from simple problems for developing algorithms to incredibly hard problems for testing algorithms to the limit. They are also interesting to observe, fun to play, and very attractive to students. Additionally, there is great potential for CI methods to improve the design and development of both computer games as well as tabletop games, board games, and puzzles. This workshop and special session aims at gathering leaders and neophytes in games research as well as practitioners in this field who research applications of computational intelligence methods to computer games.
 
 
 ## Scope
