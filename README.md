@@ -1,3 +1,6 @@
+# Workshop on Computation Intelligence in Games and Special Session on Games
+This workshop and the special session is organized in association with the IEEE CIS Games Technical Committee (GTC).
+
 **Organisers:**  
 - Hamna Aslam, ([hamna025@gmail.com](mailto:hamna025@gmail.com))
 - Marco Scirea, ([msc@mmmi.sdu.dk](mailto:msc@mmmi.sdu.dk))
@@ -42,6 +45,7 @@ Examples include but are not limited to:
 ## Important Dates
 
 Please note that the list below serves as a rough guide. The dates may be changed due to changes by the organizing committee. You can find the latest information at: [https://2023.ieee-cec.org/](https://2023.ieee-cec.org/).
+Please check [https://2023.ieee-cec.org/important-dates/](https://2023.ieee-cec.org/important-dates/) for the paper submission deadline for the special session.
 	
 | TBA                        | Paper Submission Deadline           |
 | :------------------------- |:------------------------------------|
@@ -49,6 +53,8 @@ Please note that the list below serves as a rough guide. The dates may be change
 | TBA                        | Final Paper Submission Deadline     |
 | TBA                        | Early Registration Deadline         |
 | TBA                        | Conference Dates                    |
+
+## Workshop Speakers: TBA
 
 ## About the organisers
 
