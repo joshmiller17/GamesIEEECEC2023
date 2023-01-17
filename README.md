@@ -7,8 +7,6 @@ This workshop and the special session is organized in association with the IEEE 
 - Josh Aaron Miller, ([miller.josh@northeastern.edu](mailto:miller.josh@northeastern.edu))
 
 
-_This special session is organised in association with the IEEE CIS Games Technical Committee (GTC)._
-
 ## Aim
 
 Games are an ideal domain to study computational intelligence (CI) methods because they provide affordable, competitive, dynamic, reproducible environments suitable for testing new search algorithms, pattern-based evaluation methods, or learning concepts. Games scale from simple problems for developing algorithms to incredibly hard problems for testing algorithms to the limit. They are also interesting to observe, fun to play, and very attractive to students. Additionally, there is great potential for CI methods to improve the design and development of both computer games as well as tabletop games, board games, and puzzles. This special session aims at gathering leaders and neophytes in games research as well as practitioners in this field who research applications of computational intelligence methods to computer games.
